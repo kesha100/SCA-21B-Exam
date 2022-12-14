@@ -1,0 +1,6 @@
+Git Revert command - use it when you want to roll back the small changes without erasing the commit updates. You apply git revert with tha SHA (hash) of the commit
+.Command creates a new commit where would be shown all the changes in that commit you wanted to change. Commit by command revert won't be deleted, it will stay in our history in case we would like to change something.
+-e
+--edit -> use these commands to change the commit message
+--no-edit -> the redactor to change the commit message won't open
+
