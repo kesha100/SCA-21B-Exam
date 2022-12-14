@@ -1,0 +1,3 @@
+Explain how the Git Show command works.
+git show <hash of the commit> It is used to see expand details of the commit: commit message, content of the commit 
+It shows diff of the commit also, what lines were added and subtracted
